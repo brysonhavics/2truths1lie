@@ -1,0 +1,65 @@
+h3 {
+    color: blue;
+}
+
+h1 {
+    text-align: center;
+    color: lightgreen;
+}
+
+p {
+    color: red;
+}
+
+#wrapper {
+    border: solid thick black;
+    border-radius: 5px 5px 15px 15px;
+    background-color: grey;
+}
+
+.flex-display {
+    display: flex;
+}
+
+.factoid {
+    padding: 1em; 
+    border: solid thin black;
+    border-radius: 10px;
+    background-color: lightgrey;
+    width: 33%;
+}
+
+
+
+/*
+.s1 {
+    border-style: solid;
+    background-color: lightgrey;
+    border-radius: 3%;
+    text-align: center;
+    float: left;
+    margin-right: 520px;
+    padding-right: 10px;
+}
+
+.s2 {
+    border-style: solid;
+    background-color: lightgrey;
+    border-radius: 5%;
+    text-align: center;
+    float: left;
+    margin-right: 400px;
+    padding-right: 10px;
+}
+
+.s3 {
+    border-radius: 3%;
+    background-color: lightgrey;
+    border-style: solid;
+    text-align: center;
+    float: left;
+}
+*/
+body {
+    background-color: grey;
+}
